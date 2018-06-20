@@ -1,7 +1,5 @@
 package main
 
-//TO DO: Implement draw logic, almost done!
-
 import (
   "fmt"
   "os"
