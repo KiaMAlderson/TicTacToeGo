@@ -1,7 +1,7 @@
 # TicTacToeGo
 
-Author: Kia M Alderson
-June 2018
+Author: Kia M Alderson\n
+June 2018\n
 
 TicTacToe implemented in GoLang
 It was created in preparation for a summer placement.
