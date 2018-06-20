@@ -113,12 +113,11 @@ func main() {
 
     if checkStatus() {
       p(turn, " wins!\n")
-      os.Exit(0)
+      break
     }
 
   }
 
-  p("It's a draw!\n")
   p("Thanks for playing!\n")
 
 }
